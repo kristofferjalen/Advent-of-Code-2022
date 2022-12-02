@@ -1,4 +1,5 @@
-﻿using AoC2022.Day01;
+﻿using AoC2022.Day02;
 
-var day = new Parts();
-day.Run();
+var day = new Day02();
+day.Part1();
+day.Part2();
